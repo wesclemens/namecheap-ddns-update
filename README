@@ -1,0 +1,8 @@
+# Namecheap DDNS Updater Docker
+
+This docker image updates the dynamic DNS for the Namecheap DNS service.
+
+Args:
+DOMAIN
+HOST
+DDNS_PASSWORD
